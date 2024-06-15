@@ -1,0 +1,1 @@
+This Python script is a GUI-based attendance system that leverages facial recognition to mark attendance. It uses libraries such as tkinter for the GUI, cv2 (OpenCV) for image processing, and numpy, pandas, and csv for data handling.
